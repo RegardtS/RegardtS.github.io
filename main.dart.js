@@ -47793,7 +47793,7 @@ r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 A.xv.prototype={
 T(a){var s=null,r=A.a4O(s,B.ej,s)
-return new A.oC(new A.pM(A.a0a(new A.A6("Coming soon \ud83d\ude09",s,s,s,s),s,s),s),"Flutter Demo",r,!1,s)}}
+return new A.oC(new A.pM(A.a0a(new A.A6("Coming soon \ud83d\ude09",s,s,s,s),s,s),s),"An\xe9l & Regardt Troue",r,!1,s)}}
 A.a_l.prototype={
 $0(){var s=t.m7
 if(s.b(A.a6D()))return s.a(A.a6D()).$1(A.a([],t.s))

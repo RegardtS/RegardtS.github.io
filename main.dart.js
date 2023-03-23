@@ -86596,7 +86596,7 @@ return A.aFq(!1,A.aB4(r,A.aGu(A.cb(r,A.rD(A.cb(r,A.lx(B.mO,A.a([A.cb(r,A.mT("ass
 A.A0.prototype={
 ai(){return new A.Mj(new A.bq(null,t.am),B.i)}}
 A.Mj.prototype={
-K(a){var s,r,q=this,p=null,o=A.bf(p,8,p),n=A.bf(p,8,p),m=A.bf(p,32,p),l=A.bz("Bly u oor?",p,p,p,B.E,p,p),k=A.bz("Sal dit nie mis nie!",p,p,p,B.E,p,p),j=t.y
+K(a){var s,r,q=this,p=null,o=A.bf(p,8,p),n=A.bf(p,8,p),m=A.bf(p,32,p),l=A.bz("Sal u kan bywoon?",p,p,p,B.E,p,p),k=A.bz("Sal dit nie mis nie!",p,p,p,B.E,p,p),j=t.y
 k=A.afT(q.w,new A.ade(q),k,!0,j)
 s=A.bz("Kan dit ongelukkig dit nie maak nie",p,p,p,B.E,p,p)
 r=t.p
@@ -86859,12 +86859,12 @@ K(a){var s=null,r="Akkommodasie",q="Kleredrag",p=A.aAM(a),o=this.X3(a),n=t.p,m=A
 if(a.O(l).f.a.a<887)B.b.N(m,A.a([A.bz("Vervoer",s,s,s,B.b2.kZ(B.j,30),s,s)],n))
 else B.b.N(m,A.a([A.bz("Vervoer",s,s,s,B.b2.bH(B.j),s,s)],n))
 m.push(A.bf(s,25,s))
-m.push(A.bz("Elkeen is verandwoordelik vir sy/haar eie vervoer na en van Atilla Trust Farm. 'n Google kaart is vir u gerief onder aangeheg",s,s,s,B.E.bH(B.j),B.as,s))
+m.push(A.bz("Elkeen is verandwoordelik vir sy/haar eie vervoer na en van Atila Trust Farm. 'n Google kaart is vir u gerief onder aangeheg",s,s,s,B.E.bH(B.j),B.as,s))
 m.push(A.bf(s,45,s))
 if(a.O(l).f.a.a<887)B.b.N(m,A.a([A.bz(r,s,s,s,B.b2.kZ(B.j,30),s,s)],n))
 else B.b.N(m,A.a([A.bz(r,s,s,s,B.b2.bH(B.j),s,s)],n))
 m.push(A.bf(s,25,s))
-m.push(A.bz("Atilla is bespreek vir Saterdag en Sondag. Gaste kan vanaf Saterdag middag 2 uur aanmeld. Ons vertrek weer Sondag oggend, na 'n ligte ontbyt. Alle gaste moet teen 10 uur uitteken wees.\nVerblyf is ten volle betaal. \nOns hoop dat jul die naweek saam met ons sal kom geniet.\n\nDaar sal n kontant kroeg beskikbaar wees, ongelukkig het hulle geen kaart fasiliteite nie.",s,s,s,B.E.bH(B.j),B.as,s))
+m.push(A.bz("Atila is bespreek vir Saterdag en Sondag. Gaste kan vanaf Saterdag middag 2 uur aanmeld. Ons vertrek weer Sondag oggend, na 'n ligte ontbyt. Alle gaste moet teen 10 uur uitgeteken wees.\nVerblyf is ten volle betaal. \nOns hoop dat jul die naweek saam met ons sal kom geniet.\n\nDaar sal n kontant kroeg beskikbaar wees, ongelukkig het hulle geen kaart fasiliteite nie.",s,s,s,B.E.bH(B.j),B.as,s))
 m.push(A.bf(s,45,s))
 if(a.O(l).f.a.a<887)B.b.N(m,A.a([A.bz(q,s,s,s,B.b2.kZ(B.j,30),s,s)],n))
 else B.b.N(m,A.a([A.bz(q,s,s,s,B.b2.bH(B.j),s,s)],n))
@@ -86929,7 +86929,7 @@ K(a){var s=null
 return A.cb(s,new A.zJ(s),s,s,s,s,s,s,s)}}
 A.ML.prototype={
 K(a){var s=null,r=t.l,q=a.O(r).f.a.a<650?90:180,p=t.p
-q=A.cb(s,A.ei(A.a([A.bf(s,a.O(r).f.a.a<650?45:180,s),A.bz("Ons storie",s,s,s,B.e0,B.as,s),A.bf(s,50,s),A.bz("Hierdie Schindler het al lankal vir An\xe9l op sy lys gehad,\nmaar dit het vir Regardt byna 12 jr geneem om vir haar te oortuig dat hulle op dieselfde lys hoort",s,s,s,B.E,B.as,s)],p),B.a0,B.ah,B.ai),s,s,s,s,s,new A.aJ(q,0,q,0),s)
+q=A.cb(s,A.ei(A.a([A.bf(s,a.O(r).f.a.a<650?45:180,s),A.bz("Ons storie",s,s,s,B.e0,B.as,s),A.bf(s,50,s),A.bz("Hierdie Schindler het al lankal vir An\xe9l op sy lys gehad,\nmaar dit het vir Regardt byna 12 jaar geneem om vir haar te oortuig dat hulle op dieselfde lys hoort",s,s,s,B.E,B.as,s)],p),B.a0,B.ah,B.ai),s,s,s,s,s,new A.aJ(q,0,q,0),s)
 return A.cb(s,A.ei(A.a([q,A.bf(s,a.O(r).f.a.a<650?0:160,s),A.mT("assets/images/tester_.png",s,336,s,B.aU,1044)],p),B.a0,B.ah,B.ai),B.en,new A.ay(0,887,0,1/0),s,s,s,s,1/0)}}
 A.LH.prototype={
 K(a){var s=null,r=A.fM(a),q=this.d,p=r.d
